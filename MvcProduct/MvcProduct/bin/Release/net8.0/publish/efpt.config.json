@@ -1,0 +1,82 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "AdventureWorksLT2022Context",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "MvcProduct",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[SalesLT].[Address]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[Customer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[CustomerAddress]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[Product]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[ProductCategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[ProductDescription]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[ProductModel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[ProductModelProductDescription]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[SalesOrderDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[SalesLT].[SalesOrderHeader]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
